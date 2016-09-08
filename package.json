@@ -17,10 +17,13 @@
   "author": "CZHerrington",
   "license": "MIT",
   "bin": {
-  "utility_js": "./index.js"
-},
+    "utility_js": "./index.js"
+  },
   "bugs": {
     "url": "https://github.com/CZHerrington/Node-CLI-Utility/issues"
   },
-  "homepage": "https://github.com/CZHerrington/Node-CLI-Utility#readme"
+  "homepage": "https://github.com/CZHerrington/Node-CLI-Utility#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
 }
