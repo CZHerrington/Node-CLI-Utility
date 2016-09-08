@@ -16,6 +16,9 @@
   ],
   "author": "CZHerrington",
   "license": "MIT",
+  "bin": {
+  "utility_js": "./index.js"
+},
   "bugs": {
     "url": "https://github.com/CZHerrington/Node-CLI-Utility/issues"
   },
