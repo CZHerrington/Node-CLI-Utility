@@ -1,0 +1,23 @@
+{
+  "name": "utility_js",
+  "version": "0.0.1",
+  "description": "A general command line utility written in Javascript for the node.js runtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no tests written\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CZHerrington/Node-CLI-Utility.git"
+  },
+  "keywords": [
+    "CLI",
+    "utility"
+  ],
+  "author": "CZHerrington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CZHerrington/Node-CLI-Utility/issues"
+  },
+  "homepage": "https://github.com/CZHerrington/Node-CLI-Utility#readme"
+}
